@@ -22,4 +22,4 @@
 
 ## Weeks.
 
-### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Week 0](/week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
