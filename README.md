@@ -16,7 +16,7 @@ Si lo haces faltarás a la **[honestidad académica](https://cs50.harvard.edu/py
 
 ## Final Project [Retail store aplication](https://youtu.be/VvtR7jrjbYY?si=OmS4XuIk9botxdPQ)
 
-[![Certificate](./CS50P Jorge.png)](https://certificates.cs50.io/9b1ed332-80c2-4b78-b670-bee696f7ee60.pdf?size=letter)
+[![Certificate](CS50P Jorge.png)](https://certificates.cs50.io/9b1ed332-80c2-4b78-b670-bee696f7ee60.pdf?size=letter)
 
 ## Table of Contents / Tabla de contenidos. 📒
 
