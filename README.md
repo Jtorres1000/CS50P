@@ -14,6 +14,8 @@ If you do so, you will violate the **[Academic Honesty](https://cs50.harvard.edu
 Comparto mis soluciones por aquí para la comunidad, no debes usar esto para subirlo como tus propias soluciones.
 Si lo haces faltarás a la **[honestidad académica](https://cs50.harvard.edu/python/2022/honesty/)** del curso y tu certificado y/o participación en el curso puede ser revocado.
 
+## Final Project [Retail store aplication](https://youtu.be/VvtR7jrjbYY?si=OmS4XuIk9botxdPQ)
+
 ## Table of Contents / Tabla de contenidos. 📒
 
 ### [Week 0](/week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
